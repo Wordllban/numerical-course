@@ -1,0 +1,15 @@
+{
+  "name": "num-methods-course",
+  "version": "1.0.0",
+  "description": "This is my course of Numerical Methods in Lviv Polytechnic National University",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "Algorithms"
+  ],
+  "author": "KMininkov",
+  "license": "ISC"
+}
